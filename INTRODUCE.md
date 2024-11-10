@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Calculuszz
+- 👋 Hi, I’m Thapakorn Suwanpho 
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning Deep learning and algorithm 1,2
 - 💞️ I want to study Computer Science.
