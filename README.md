@@ -11,15 +11,13 @@ who enjoys building things and solving problems.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, Kotlin, JavaScript, HTML, CSS
-- **Tools:** Git
+- **Tools:** Git, Docker, PostmanAPI
 - **Frontend:** React, Tailwind, Next.js
+- **Backend:** Node.js, NestJS, Express
 
 ## 📌 Featured Projects
-- **Project One** – Short description
-- **Project Two** – Short description
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- **UpFound** – Lost & Found AI transforms post-event lost-and-found operations into a trusted infrastructure by using AI to automate item cataloging, accelerate search, and secure claims—reducing operational cost, brand risk, and liability for event organizers.
+- **CAREPASS** – CAREPASS revolutionizes Thailand’s health insurance claims by orchestrating secure, paperless, and transparent workflows using decentralized identity (DID) and verifiable credentials on the TBSI blockchain.
 
 ## 📫 Contact
 - Email: thapakornsuwanpho@gmail.com
