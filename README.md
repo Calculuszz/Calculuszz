@@ -22,5 +22,3 @@ who enjoys building things and solving problems.
 ## 📫 Contact
 - Email: thapakornsuwanpho@gmail.com
 
----
-⭐️ From [Your Name](https://github.com/YOUR_USERNAME)
