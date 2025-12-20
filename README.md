@@ -5,7 +5,7 @@ who enjoys building things and solving problems.
 
 ## 🚀 About Me
 - 🎓 Studying Engineering at Chulalongkorn University (CU Intania 109)
-- 🔭 Working on AI & automation projects
+- 🔭 Working on startups 
 - 🌱 Learning physics, ai, business, and startups
 - 💡 Interested in deep tech & innovation
 
