@@ -10,10 +10,10 @@ who enjoys building things and solving problems.
 - 💡 Interested in deep tech & innovation
 
 ## 🛠 Tech Stack
-- **Languages:** Python, Kotlin, JavaScript, HTML, CSS
-- **Tools:** Git, Docker, PostmanAPI
-- **Frontend:** React, Tailwind, Next.js
-- **Backend:** Node.js, NestJS, Express
+- **Languages:** C, C++, Python, Java, JavaScript, TypeScript, SQL
+- **Tools:** Git, Visual Studio Code, Eclipse, Figma, Adobe Photoshop, Arduino, Docker, MongoDB, PostgreSQL, AWS Cloud, Firebase, Vercel
+- **Frontend:** React, TailwindCSS, Next.js
+- **Backend:** Node.js, Express, NumPy, Pandas, Matplotlib, OpenCV
 
 ## 📌 Featured Projects
 - **UpFound** – Lost & Found AI transforms post-event lost-and-found operations into a trusted infrastructure by using AI to automate item cataloging, accelerate search, and secure claims—reducing operational cost, brand risk, and liability for event organizers.
